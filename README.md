@@ -1,4 +1,4 @@
-![NETFLIX DASHBOARD](https://github.com/user-attachments/assets/507ddb49-2903-484d-bcea-0a0b512b765b)# 🎬 NFLX Insight: Netflix Stock Analysis
+🎬 NFLX Insight: Netflix Stock Analysis
 
 Um dashboard interativo de análise financeira construído com Power BI para examinar 4 anos de dados históricos da Netflix (NFLX). Este projeto foi desenvolvido para transformar a volatilidade bruta do mercado de ações em uma narrativa clara de tendências e volumes. Foquei intensamente na robustez do backend (DAX e Modelagem) e na precisão dos dados financeiros.
 
