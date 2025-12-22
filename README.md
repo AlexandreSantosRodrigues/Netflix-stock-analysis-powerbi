@@ -27,7 +27,7 @@ Aumente a velocidade de análise com estas funções nativas:
 - **Foco de Detalhe:** Passe o mouse (Tooltip) sobre os pontos das linhas para ver os valores exatos de abertura, máxima e mínima de um dia específico.
 - **Reset de Filtros:** Clique em um espaço vazio de qualquer gráfico para limpar as seleções e voltar à visão geral.
 
-## 👩🏽‍🍳 The Process (O Processo)
+## 👩🏽‍🍳 The Process 
 
 Comecei pelo **Power Query**, garantindo que os dados financeiros fossem tipados como "Número Decimal Fixo". Isso é crítico em projetos de BI para evitar erros de arredondamento comuns em cálculos de moedas e ativos.
 
