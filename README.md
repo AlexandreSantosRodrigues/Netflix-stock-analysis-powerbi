@@ -65,5 +65,5 @@ Para visualizar o dashboard no seu ambiente local:
 
 ## 🍿 Video / Dashboard em Ação
 
-![Netflix Dashboard Preview] ![NETFLIX DASHBOARD](https://github.com/user-attachments/assets/65598b09-c594-448b-9009-9984b48a2eac)
+(https://github.com/user-attachments/assets/65598b09-c594-448b-9009-9984b48a2eac)
 
